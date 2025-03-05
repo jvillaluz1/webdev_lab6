@@ -18,7 +18,7 @@ body {
 #header h1 {
   position: absolute;
   left: 420px;
-  top: 5px;
+  top:5px;
   font-size: 3em;
   font-family: 'Devonshire', cursive;
   color: #E35335;
@@ -33,7 +33,7 @@ body {
 #header #toplink {
   text-decoration: none;
   position: absolute;
-  top: -34px;
+  top:-34px;
   right: 10px;
   color: white;
   font-size: 1.8em;
